@@ -1,13 +1,7 @@
 <div align="center">
-  <h2>💦 Scraping | Chrome Extensions | Automation | Bot | AI & API Integration 💦</h2>
+  <h2>💦 Full Stack | Web3 Developer 💦</h2>
 </div>
 
-I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
-
-🔹 **Web Scraping** — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping  
-🔹 **Telegram Bots & Mini Apps** — Auto-trading, signal alerts, portfolio trackers, group management tools  
-🔹 **AI-Driven Chrome Extensions** — Intelligent automation, data extraction, and real-time trading assistants  
-🔹 **Custom Automation & Integration** — REST/RPC/gRPC APIs, webhooks, real-time data scraping  
 <br/>
 
 <p align="center">  
@@ -18,6 +12,10 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
 # 
 <table align="center">
   <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
     <td align="center" width="90">
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
       <br>Ethereum
@@ -31,10 +29,6 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <br>Solidity
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
@@ -46,7 +40,6 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
-    
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
@@ -55,7 +48,6 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
-    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
